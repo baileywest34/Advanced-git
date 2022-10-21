@@ -34,7 +34,7 @@ td:nth-child(3) {
 }
 
 td:nth-child(1), td:nth-child(2) {
-    background-color: blue;
+    background-color: black;
     color: green;
 }
 
