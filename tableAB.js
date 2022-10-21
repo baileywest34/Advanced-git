@@ -1,10 +1,10 @@
 //change output when clicked
-const Q0 = document.querySelector('.output0');
-const Q1 = document.querySelector('.output1');
-const Q2 = document.querySelector('.output2');
-const Q3 = document.querySelector('.output3');
-const Qinitial = [0,1];
-let index = 0;
+    const Q0 = document.querySelector('.output0');
+    const Q1 = document.querySelector('.output1');
+    const Q2 = document.querySelector('.output2');
+    const Q3 = document.querySelector('.output3');
+    const Qinitial = [0,1];
+    let index = 0;
 
 Q0.addEventListener('click', function changeOutput() {
     Q0.innerHTML = Qinitial[index]; 
