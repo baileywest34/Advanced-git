@@ -9,7 +9,8 @@ table {
 }
 
 body {
-    background-color:darkslategray
+    background-color:darkslategray;
+    margin: 5em;
 }
 
 th {
